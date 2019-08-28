@@ -11,49 +11,18 @@
 
 ## **截图**
 
-### **总后台**
+### **DEMO**
 
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/admin.png "商户平台")
+抢单APP: http://121.199.50.200:8082   登录用户名:feng 登录密码:123456
+下单测试: http://121.199.50.200:8081
 
-### **商户后台**
+测试流程： 
+1.打开（http://121.199.50.200:8082）页面，登录进去，点击【开始抢单】按钮开始监听订单
+2.打开下单页面（http://121.199.50.200:8081）点击【去支付】按钮，下单成功后，抢单APP页面会马上收到订单，直接抢单即可
 
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/agent.png "商户平台")
+## **免责申明**
 
-### **码商后台**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mashang.png "运营平台")
-
-### **下单页面1**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/xiadan1.png "运营平台")
-
-### **下单页面2**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/xiadan2.png "运营平台")
-
-### **码农APP1**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mn6.jpg "运营平台")
-
-### **码农APP2**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mn5.jpg "运营平台")
-
-### **码农APP3**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mn4.jpg "运营平台")
-
-### **码农APP4**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mn3.jpg "运营平台")
-
-### **码农APP5**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mn2.jpg "运营平台")
-
-### **码农APP6**
-
-![输入图片说明](http://puv3egygu.bkt.clouddn.com/mn1.jpg "运营平台")
+该系统仅学习交流使用，请勿用作非法用途
 
 ## **问题反馈**
 
